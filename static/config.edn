@@ -1,0 +1,4 @@
+{:slack-token "FIXME"
+ :youtube-key "FIXME"
+ :not-found-response  {:text "Nothing found :cry:"}
+ :processing-response {:text "Processing :crystal_ball:"}}
